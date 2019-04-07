@@ -1,2 +1,2 @@
 # TicTacToe
-A simple java based TicTacToe
+A simple java based TicTacToe game
